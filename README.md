@@ -1,5 +1,5 @@
 # HTML5
-Complete HTML5 tutorial.
+The complete HTML5 tutorial.
 
 ## What is HTML5?
 * HTML stands for Hyper Text Markup Language
