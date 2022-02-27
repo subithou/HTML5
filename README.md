@@ -4,7 +4,7 @@ Complete HTML5 tutorial.
 ## What is HTML5?
 * HTML stands for Hyper Text Markup Language
 * 5 represents the version of HTML
-* It's used for creating Web paages
+* It's used for creating Web pages
 * Also it describes the  structure of Web page
 
 ### A simple HTML Document
